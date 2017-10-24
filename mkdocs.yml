@@ -1,0 +1,10 @@
+site_name: 得力云平台接口文档
+site_url: http://docs.delicloud.com
+site_author: xuchaoguo
+theme: readthedocs
+
+
+pages:
+    - 首页: index.md
+    - 联系我们: about.md
+
